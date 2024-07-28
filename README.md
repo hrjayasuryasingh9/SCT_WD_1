@@ -25,4 +25,5 @@ This project is a responsive landing page created as Task-01 for my internship a
 - Guidance and support from the SkillCraft Technologies development team.
 ## View My Website Here : https://hrjayasuryasingh9.github.io/SCT_WD_1/Task-1
 **Author**: Jayasuryasingh
+
 **Date**: July 2024
